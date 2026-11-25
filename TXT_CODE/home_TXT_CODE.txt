@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="HAREL ECO FRIENDLY PRODUCT — thoughtful products and ideas for greener everyday living.">
+<title>Home | HAREL ECO FRIENDLY PRODUCT</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header class="site-header">
+  <a class="brand" href="about-us.html"><span class="brand-mark">H</span><span>HAREL<small>ECO FRIENDLY PRODUCT</small></span></a>
+  <nav class="main-nav">
+    <a href="home.html" class="active">Home</a>
+    <a href="about-us.html">About Us</a>
+    <a href="products.html">Products</a>
+    <a href="contact-us.html">Contact Us</a>
+  </nav>
+  <a class="header-cta" href="products.html">Explore collection <span>↗</span></a>
+</header>
+<main>
+<section class="hero" id="top">
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <span class="eyebrow hero-eyebrow">LIVE LIGHTER. CHOOSE BETTER.</span>
+    <h1>Small choices.<br><em>Greener</em> tomorrow.</h1>
+    <p>Discover thoughtful everyday alternatives that celebrate reuse, natural materials, and a cleaner environment.</p>
+    <a class="button button-light" href="products.html">DISCOVER OUR PRODUCTS <span>⟶</span></a>
+  </div>
+  <div class="hero-note"><span class="note-dot"></span> A more mindful way to live</div>
+  <div class="hero-bottom">HAREL ECO FRIENDLY PRODUCT <span>·</span> SUSTAINABLE LIVING COLLECTION</div>
+</section>
+<section class="home-intro section-wrap">
+  <div><span class="eyebrow">A GREENER EVERYDAY</span><h2>Make room for<br><em>better habits.</em></h2></div>
+  <p>From reusable essentials to natural-inspired everyday items, explore simple ideas that can help make more mindful living part of your routine.</p>
+  <a class="text-link" href="about-us.html">Learn about Harel <span>→</span></a>
+</section>
+<section class="feature-band">
+  <div class="feature-image"><img src="image/history-recycle.png" alt="Reusable eco-friendly items arranged around a recycling symbol"></div>
+  <div class="feature-copy"><span class="eyebrow">OUR PURPOSE</span><h2>Thoughtful living,<br><em>one choice at a time.</em></h2><p>We believe that caring for the planet can begin with small, practical decisions made every day.</p><a class="button button-green" href="about-us.html">OUR STORY <span>⟶</span></a></div>
+</section>
+<section class="home-products section-wrap">
+  <div class="section-heading"><div><span class="eyebrow">THE HAREL COLLECTION</span><h2>Explore our <em>products.</em></h2></div><a class="text-link" href="products.html">View all 50 products <span>→</span></a></div>
+  <div class="mini-product-grid">
+    <a href="products.html#product-1"><img src="image/01.png" alt="Bamboo toothbrush set"><strong>Bamboo Toothbrush Set</strong><span>View product →</span></a>
+    <a href="products.html#product-2"><img src="image/02.png" alt="Stainless steel water bottle"><strong>Stainless Steel Water Bottle</strong><span>View product →</span></a>
+    <a href="products.html#product-3"><img src="image/03.png" alt="Reusable cotton tote bag"><strong>Reusable Cotton Tote Bag</strong><span>View product →</span></a>
+    <a href="products.html#product-4"><img src="image/04.png" alt="Bamboo drinking straws"><strong>Bamboo Drinking Straws</strong><span>View product →</span></a>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <a class="footer-brand" href="about-us.html">HAREL <span>ECO FRIENDLY PRODUCT</span></a>
+  <p>Small choices. Greener tomorrow.</p>
+  <a href="#top" class="back-top">BACK TO TOP ↑</a>
+  <small>© 2026 HAREL ECO FRIENDLY PRODUCT. Informational product showcase.</small>
+  <small class="creator-credit">CREATED BY GIAN SANCHEZ UMALI</small>
+</footer>
+</body></html>

@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="HAREL ECO FRIENDLY PRODUCT — thoughtful products and ideas for greener everyday living.">
+<title>Products | HAREL ECO FRIENDLY PRODUCT</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header class="site-header">
+  <a class="brand" href="about-us.html"><span class="brand-mark">H</span><span>HAREL<small>ECO FRIENDLY PRODUCT</small></span></a>
+  <nav class="main-nav">
+    <a href="home.html">Home</a>
+    <a href="about-us.html">About Us</a>
+    <a href="products.html" class="active">Products</a>
+    <a href="contact-us.html">Contact Us</a>
+  </nav>
+  <a class="header-cta" href="products.html" class="active">Explore collection <span>↗</span></a>
+</header>
+<main>
+<section class="products-banner" id="top"><span class="eyebrow hero-eyebrow">THE HAREL COLLECTION</span><h1>Products for a<br><em>greener lifestyle.</em></h1><p>Explore 50 thoughtfully selected everyday items. Click any product to discover its description, uses, and environmental benefits.</p></section>
+<section class="products-section section-wrap">
+  <div class="product-count"><span>50 PRODUCTS</span><span>SCROLL · EXPLORE · LEARN</span></div>
+  <div class="product-grid"><article class="product-card">
+<a aria-label="View details for Bamboo Toothbrush Set" class="product-photo" href="#product-1">
+<img alt="Bamboo Toothbrush Set" loading="lazy" src="image/01.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 01</span>
+<h3>Bamboo Toothbrush Set</h3>
+<p>A reusable toothbrush set made with bamboo handles and soft bristles.</p>
+<a class="text-link" href="#product-1">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Stainless Steel Water Bottle" class="product-photo" href="#product-2">
+<img alt="Stainless Steel Water Bottle" loading="lazy" src="image/02.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 02</span>
+<h3>Stainless Steel Water Bottle</h3>
+<p>A durable reusable bottle with a stainless-steel body and screw-top lid.</p>
+<a class="text-link" href="#product-2">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Cotton Tote Bag" class="product-photo" href="#product-3">
+<img alt="Reusable Cotton Tote Bag" loading="lazy" src="image/03.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 03</span>
+<h3>Reusable Cotton Tote Bag</h3>
+<p>A simple reusable carry bag made from natural-looking cotton fabric.</p>
+<a class="text-link" href="#product-3">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Bamboo Drinking Straws" class="product-photo" href="#product-4">
+<img alt="Bamboo Drinking Straws" loading="lazy" src="image/04.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 04</span>
+<h3>Bamboo Drinking Straws</h3>
+<p>A set of natural bamboo straws for reusable drinking.</p>
+<a class="text-link" href="#product-4">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Loofah Sponge" class="product-photo" href="#product-5">
+<img alt="Natural Loofah Sponge" loading="lazy" src="image/05.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 05</span>
+<h3>Natural Loofah Sponge</h3>
+<p>A plant-based loofah scrubber with a natural fibrous texture.</p>
+<a class="text-link" href="#product-5">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Bamboo Cutlery Set" class="product-photo" href="#product-6">
+<img alt="Bamboo Cutlery Set" loading="lazy" src="image/06.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 06</span>
+<h3>Bamboo Cutlery Set</h3>
+<p>A reusable set of bamboo spoons, forks, and other eating utensils.</p>
+<a class="text-link" href="#product-6">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Recycled Paper Notebook" class="product-photo" href="#product-7">
+<img alt="Recycled Paper Notebook" loading="lazy" src="image/07.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 07</span>
+<h3>Recycled Paper Notebook</h3>
+<p>A notebook with a recycled-paper cover and pages.</p>
+<a class="text-link" href="#product-7">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Silicone Food Bags" class="product-photo" href="#product-8">
+<img alt="Reusable Silicone Food Bags" loading="lazy" src="image/08.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 08</span>
+<h3>Reusable Silicone Food Bags</h3>
+<p>Reusable food-storage pouches for snacks and small food portions.</p>
+<a class="text-link" href="#product-8">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Coconut Shell Bowl" class="product-photo" href="#product-9">
+<img alt="Coconut Shell Bowl" loading="lazy" src="image/09.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 09</span>
+<h3>Coconut Shell Bowl</h3>
+<p>A bowl made from a natural coconut shell.</p>
+<a class="text-link" href="#product-9">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Loofah Soap Saver" class="product-photo" href="#product-10">
+<img alt="Natural Loofah Soap Saver" loading="lazy" src="image/10.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 10</span>
+<h3>Natural Loofah Soap Saver</h3>
+<p>A natural loofah pad designed to hold or rest a bar of soap.</p>
+<a class="text-link" href="#product-10">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Beeswax Food Wrap" class="product-photo" href="#product-11">
+<img alt="Beeswax Food Wrap" loading="lazy" src="image/11.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 11</span>
+<h3>Beeswax Food Wrap</h3>
+<p>A reusable food wrap with a natural beeswax-style finish.</p>
+<a class="text-link" href="#product-11">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Wooden Soap Dish" class="product-photo" href="#product-12">
+<img alt="Wooden Soap Dish" loading="lazy" src="image/12.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 12</span>
+<h3>Wooden Soap Dish</h3>
+<p>A simple wooden tray with drainage spaces for bar soap.</p>
+<a class="text-link" href="#product-12">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Soy Candle" class="product-photo" href="#product-13">
+<img alt="Natural Soy Candle" loading="lazy" src="image/13.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 13</span>
+<h3>Natural Soy Candle</h3>
+<p>A candle presented in a reusable-style glass container.</p>
+<a class="text-link" href="#product-13">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Plant in Recycled Pot" class="product-photo" href="#product-14">
+<img alt="Plant in Recycled Pot" loading="lazy" src="image/14.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 14</span>
+<h3>Plant in Recycled Pot</h3>
+<p>A small green plant displayed in a textured recycled-look planter.</p>
+<a class="text-link" href="#product-14">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Cotton Makeup Pads" class="product-photo" href="#product-15">
+<img alt="Reusable Cotton Makeup Pads" loading="lazy" src="image/15.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 15</span>
+<h3>Reusable Cotton Makeup Pads</h3>
+<p>Washable round cotton pads stored in a small drawstring pouch.</p>
+<a class="text-link" href="#product-15">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Wooden Wide-Tooth Comb" class="product-photo" href="#product-16">
+<img alt="Wooden Wide-Tooth Comb" loading="lazy" src="image/16.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 16</span>
+<h3>Wooden Wide-Tooth Comb</h3>
+<p>A wooden comb with widely spaced teeth.</p>
+<a class="text-link" href="#product-16">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Produce Bag" class="product-photo" href="#product-17">
+<img alt="Reusable Produce Bag" loading="lazy" src="image/17.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 17</span>
+<h3>Reusable Produce Bag</h3>
+<p>A lightweight mesh-style bag for carrying fruits and vegetables.</p>
+<a class="text-link" href="#product-17">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Wooden Tissue Box Cover" class="product-photo" href="#product-18">
+<img alt="Wooden Tissue Box Cover" loading="lazy" src="image/18.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 18</span>
+<h3>Wooden Tissue Box Cover</h3>
+<p>A wooden cover designed to hold a tissue box.</p>
+<a class="text-link" href="#product-18">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Seed Paper Cards" class="product-photo" href="#product-19">
+<img alt="Seed Paper Cards" loading="lazy" src="image/19.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 19</span>
+<h3>Seed Paper Cards</h3>
+<p>Plantable-style paper cards decorated with a small leaf design.</p>
+<a class="text-link" href="#product-19">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Stainless Steel Bottle" class="product-photo" href="#product-20">
+<img alt="Reusable Stainless Steel Bottle" loading="lazy" src="image/20.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 20</span>
+<h3>Reusable Stainless Steel Bottle</h3>
+<p>A clear-finish reusable stainless-steel drink bottle.</p>
+<a class="text-link" href="#product-20">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Bath Brush" class="product-photo" href="#product-21">
+<img alt="Natural Bath Brush" loading="lazy" src="image/21.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 21</span>
+<h3>Natural Bath Brush</h3>
+<p>A wooden-handled bath brush with natural-looking bristles.</p>
+<a class="text-link" href="#product-21">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Stainless Steel Lunch Box" class="product-photo" href="#product-22">
+<img alt="Stainless Steel Lunch Box" loading="lazy" src="image/22.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 22</span>
+<h3>Stainless Steel Lunch Box</h3>
+<p>A reusable metal lunch container with compartments.</p>
+<a class="text-link" href="#product-22">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Seedling Paper Gift Bag" class="product-photo" href="#product-23">
+<img alt="Seedling Paper Gift Bag" loading="lazy" src="image/23.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 23</span>
+<h3>Seedling Paper Gift Bag</h3>
+<p>A kraft-style paper bag decorated with a botanical motif.</p>
+<a class="text-link" href="#product-23">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Cloth Napkins" class="product-photo" href="#product-24">
+<img alt="Reusable Cloth Napkins" loading="lazy" src="image/24.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 24</span>
+<h3>Reusable Cloth Napkins</h3>
+<p>A set of washable fabric napkins with a leaf pattern.</p>
+<a class="text-link" href="#product-24">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Refillable Natural Balm Jar" class="product-photo" href="#product-25">
+<img alt="Refillable Natural Balm Jar" loading="lazy" src="image/25.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 25</span>
+<h3>Refillable Natural Balm Jar</h3>
+<p>A small reusable jar for balm or other personal-care products.</p>
+<a class="text-link" href="#product-25">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Solar Garden Light" class="product-photo" href="#product-26">
+<img alt="Solar Garden Light" loading="lazy" src="image/26.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 26</span>
+<h3>Solar Garden Light</h3>
+<p>A garden stake light with a solar panel and lantern-style top.</p>
+<a class="text-link" href="#product-26">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Wooden Clothes Hangers" class="product-photo" href="#product-27">
+<img alt="Wooden Clothes Hangers" loading="lazy" src="image/27.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 27</span>
+<h3>Wooden Clothes Hangers</h3>
+<p>A set of sturdy wooden hangers for organizing clothing.</p>
+<a class="text-link" href="#product-27">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Metal Coffee Filter" class="product-photo" href="#product-28">
+<img alt="Reusable Metal Coffee Filter" loading="lazy" src="image/28.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 28</span>
+<h3>Reusable Metal Coffee Filter</h3>
+<p>A stainless-steel pour-over coffee filter.</p>
+<a class="text-link" href="#product-28">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Woven Storage Basket" class="product-photo" href="#product-29">
+<img alt="Woven Storage Basket" loading="lazy" src="image/29.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 29</span>
+<h3>Woven Storage Basket</h3>
+<p>A natural-fiber woven basket with handles.</p>
+<a class="text-link" href="#product-29">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Food Containers" class="product-photo" href="#product-30">
+<img alt="Reusable Food Containers" loading="lazy" src="image/30.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 30</span>
+<h3>Reusable Food Containers</h3>
+<p>A set of clear reusable containers with lids.</p>
+<a class="text-link" href="#product-30">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Wooden Dish Brush" class="product-photo" href="#product-31">
+<img alt="Wooden Dish Brush" loading="lazy" src="image/31.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 31</span>
+<h3>Wooden Dish Brush</h3>
+<p>A wooden cleaning brush with natural-style bristles.</p>
+<a class="text-link" href="#product-31">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Gift Wrap" class="product-photo" href="#product-32">
+<img alt="Reusable Gift Wrap" loading="lazy" src="image/32.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 32</span>
+<h3>Reusable Gift Wrap</h3>
+<p>A reusable fabric-style gift wrap tied with a natural ribbon.</p>
+<a class="text-link" href="#product-32">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Bamboo Wall Clock" class="product-photo" href="#product-33">
+<img alt="Bamboo Wall Clock" loading="lazy" src="image/33.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 33</span>
+<h3>Bamboo Wall Clock</h3>
+<p>A minimalist round clock with a bamboo-look face.</p>
+<a class="text-link" href="#product-33">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Pencil Case" class="product-photo" href="#product-34">
+<img alt="Reusable Pencil Case" loading="lazy" src="image/34.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 34</span>
+<h3>Reusable Pencil Case</h3>
+<p>A fabric pencil pouch with a simple zip closure.</p>
+<a class="text-link" href="#product-34">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Fiber Hand Fan" class="product-photo" href="#product-35">
+<img alt="Natural Fiber Hand Fan" loading="lazy" src="image/35.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 35</span>
+<h3>Natural Fiber Hand Fan</h3>
+<p>A woven hand fan with a natural-fiber finish.</p>
+<a class="text-link" href="#product-35">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Loofah Bath Sponge" class="product-photo" href="#product-36">
+<img alt="Natural Loofah Bath Sponge" loading="lazy" src="image/36.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 36</span>
+<h3>Natural Loofah Bath Sponge</h3>
+<p>A natural loofah sponge for bathing and gentle exfoliation.</p>
+<a class="text-link" href="#product-36">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Refillable Amber Soap Dispenser" class="product-photo" href="#product-37">
+<img alt="Refillable Amber Soap Dispenser" loading="lazy" src="image/37.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 37</span>
+<h3>Refillable Amber Soap Dispenser</h3>
+<p>An amber-colored pump bottle for liquid soap or other suitable liquids.</p>
+<a class="text-link" href="#product-37">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Recycled Paper Gift Tags" class="product-photo" href="#product-38">
+<img alt="Recycled Paper Gift Tags" loading="lazy" src="image/38.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 38</span>
+<h3>Recycled Paper Gift Tags</h3>
+<p>Decorative tags made from recycled-style paper with a natural twine tie.</p>
+<a class="text-link" href="#product-38">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Glass Propagation Station" class="product-photo" href="#product-39">
+<img alt="Glass Propagation Station" loading="lazy" src="image/39.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 39</span>
+<h3>Glass Propagation Station</h3>
+<p>A wooden stand holding small glass tubes for plant cuttings.</p>
+<a class="text-link" href="#product-39">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Bamboo Coffee Cup" class="product-photo" href="#product-40">
+<img alt="Reusable Bamboo Coffee Cup" loading="lazy" src="image/40.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 40</span>
+<h3>Reusable Bamboo Coffee Cup</h3>
+<p>A reusable takeaway-style cup with a green lid.</p>
+<a class="text-link" href="#product-40">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Fiber Bath Mitt" class="product-photo" href="#product-41">
+<img alt="Natural Fiber Bath Mitt" loading="lazy" src="image/41.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 41</span>
+<h3>Natural Fiber Bath Mitt</h3>
+<p>A textured natural-fiber bath mitt for washing and exfoliating.</p>
+<a class="text-link" href="#product-41">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Yoga Mat" class="product-photo" href="#product-42">
+<img alt="Reusable Yoga Mat" loading="lazy" src="image/42.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 42</span>
+<h3>Reusable Yoga Mat</h3>
+<p>A green exercise mat designed for yoga, stretching, and floor workouts.</p>
+<a class="text-link" href="#product-42">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Bamboo Kitchen Utensil Set" class="product-photo" href="#product-43">
+<img alt="Bamboo Kitchen Utensil Set" loading="lazy" src="image/43.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 43</span>
+<h3>Bamboo Kitchen Utensil Set</h3>
+<p>A set of bamboo cooking spoons and spatulas.</p>
+<a class="text-link" href="#product-43">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Reusable Cotton Rounds" class="product-photo" href="#product-44">
+<img alt="Reusable Cotton Rounds" loading="lazy" src="image/44.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 44</span>
+<h3>Reusable Cotton Rounds</h3>
+<p>Washable cotton rounds stored in a drawstring pouch.</p>
+<a class="text-link" href="#product-44">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Plant in Upcycled Tire Planter" class="product-photo" href="#product-45">
+<img alt="Plant in Upcycled Tire Planter" loading="lazy" src="image/45.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 45</span>
+<h3>Plant in Upcycled Tire Planter</h3>
+<p>A leafy plant growing in a repurposed tire-style planter.</p>
+<a class="text-link" href="#product-45">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Bamboo Soap Dish" class="product-photo" href="#product-46">
+<img alt="Bamboo Soap Dish" loading="lazy" src="image/46.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 46</span>
+<h3>Bamboo Soap Dish</h3>
+<p>A bamboo-style slatted tray for bar soap.</p>
+<a class="text-link" href="#product-46">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Stainless Steel Vacuum Bottle" class="product-photo" href="#product-47">
+<img alt="Stainless Steel Vacuum Bottle" loading="lazy" src="image/47.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 47</span>
+<h3>Stainless Steel Vacuum Bottle</h3>
+<p>A reusable insulated-style stainless-steel bottle.</p>
+<a class="text-link" href="#product-47">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Natural Jute Twine" class="product-photo" href="#product-48">
+<img alt="Natural Jute Twine" loading="lazy" src="image/48.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 48</span>
+<h3>Natural Jute Twine</h3>
+<p>A spool of natural-fiber twine for home, garden, and craft use.</p>
+<a class="text-link" href="#product-48">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Compost Bin" class="product-photo" href="#product-49">
+<img alt="Compost Bin" loading="lazy" src="image/49.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 49</span>
+<h3>Compost Bin</h3>
+<p>A lidded container with a leaf symbol for collecting compostable scraps.</p>
+<a class="text-link" href="#product-49">Explore product <span>→</span></a>
+</div>
+</article><article class="product-card">
+<a aria-label="View details for Recycled Cardboard Storage Box" class="product-photo" href="#product-50">
+<img alt="Recycled Cardboard Storage Box" loading="lazy" src="image/50.png"/>
+<span class="view-label">VIEW DETAILS ↗</span>
+</a>
+<div class="product-info">
+<span class="product-number">ECO PRODUCT 50</span>
+<h3>Recycled Cardboard Storage Box</h3>
+<p>A kraft-style storage box with a recycling symbol.</p>
+<a class="text-link" href="#product-50">Explore product <span>→</span></a>
+</div>
+</article></div>
+</section>
+<section aria-label="Bamboo Toothbrush Set details" class="product-modal" id="product-1">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Toothbrush Set" src="image/01.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 01</span>
+<h2>Bamboo Toothbrush Set</h2>
+<p class="modal-intro">A reusable toothbrush set made with bamboo handles and soft bristles.</p>
+<h3>About this product</h3>
+<p>Use it as an everyday alternative to plastic-handled toothbrushes. Replace the brush when the bristles become worn and keep the bamboo handle dry between uses.</p>
+<h3>Environmental benefit</h3>
+<p>Helps reduce the number of disposable plastic toothbrush handles used.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Stainless Steel Water Bottle details" class="product-modal" id="product-2">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Stainless Steel Water Bottle" src="image/02.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 02</span>
+<h2>Stainless Steel Water Bottle</h2>
+<p class="modal-intro">A durable reusable bottle with a stainless-steel body and screw-top lid.</p>
+<h3>About this product</h3>
+<p>Fill it with water or your preferred drink and bring it to school, work, or travel. Wash and dry it regularly.</p>
+<h3>Environmental benefit</h3>
+<p>Can replace many single-use plastic beverage bottles.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Cotton Tote Bag details" class="product-modal" id="product-3">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Cotton Tote Bag" src="image/03.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 03</span>
+<h2>Reusable Cotton Tote Bag</h2>
+<p class="modal-intro">A simple reusable carry bag made from natural-looking cotton fabric.</p>
+<h3>About this product</h3>
+<p>Carry groceries, books, and everyday essentials. Fold it and keep it in your bag so it is ready when needed.</p>
+<h3>Environmental benefit</h3>
+<p>Reduces reliance on disposable shopping bags when reused.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Bamboo Drinking Straws details" class="product-modal" id="product-4">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Drinking Straws" src="image/04.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 04</span>
+<h2>Bamboo Drinking Straws</h2>
+<p class="modal-intro">A set of natural bamboo straws for reusable drinking.</p>
+<h3>About this product</h3>
+<p>Rinse after use and wash thoroughly with a suitable straw brush. Allow the straws to dry completely before storing.</p>
+<h3>Environmental benefit</h3>
+<p>Offers a reusable alternative to disposable plastic straws.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Loofah Sponge details" class="product-modal" id="product-5">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Loofah Sponge" src="image/05.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 05</span>
+<h2>Natural Loofah Sponge</h2>
+<p class="modal-intro">A plant-based loofah scrubber with a natural fibrous texture.</p>
+<h3>About this product</h3>
+<p>Use gently for bathing or household cleaning. Rinse well after use and hang it to dry.</p>
+<h3>Environmental benefit</h3>
+<p>Made from a natural plant material and can replace some synthetic scrubbers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Bamboo Cutlery Set details" class="product-modal" id="product-6">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Cutlery Set" src="image/06.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 06</span>
+<h2>Bamboo Cutlery Set</h2>
+<p class="modal-intro">A reusable set of bamboo spoons, forks, and other eating utensils.</p>
+<h3>About this product</h3>
+<p>Bring the set for packed meals, picnics, or takeout. Wash by hand and dry completely after cleaning.</p>
+<h3>Environmental benefit</h3>
+<p>Helps avoid single-use plastic utensils.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Recycled Paper Notebook details" class="product-modal" id="product-7">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Recycled Paper Notebook" src="image/07.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 07</span>
+<h2>Recycled Paper Notebook</h2>
+<p class="modal-intro">A notebook with a recycled-paper cover and pages.</p>
+<h3>About this product</h3>
+<p>Use it for notes, journaling, lists, or schoolwork. Recycle it through an appropriate paper collection program when finished.</p>
+<h3>Environmental benefit</h3>
+<p>Supports the use of recovered paper materials.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Silicone Food Bags details" class="product-modal" id="product-8">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Silicone Food Bags" src="image/08.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 08</span>
+<h2>Reusable Silicone Food Bags</h2>
+<p class="modal-intro">Reusable food-storage pouches for snacks and small food portions.</p>
+<h3>About this product</h3>
+<p>Store snacks, fruit, and leftovers according to the product's care instructions. Clean and dry before reuse.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce the need for disposable plastic storage bags.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Coconut Shell Bowl details" class="product-modal" id="product-9">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Coconut Shell Bowl" src="image/09.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 09</span>
+<h2>Coconut Shell Bowl</h2>
+<p class="modal-intro">A bowl made from a natural coconut shell.</p>
+<h3>About this product</h3>
+<p>Use it for serving snacks, fruit, or dry foods. Clean gently and keep it dry when stored.</p>
+<h3>Environmental benefit</h3>
+<p>Makes use of a natural material that is often a by-product of coconut processing.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Loofah Soap Saver details" class="product-modal" id="product-10">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Loofah Soap Saver" src="image/10.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 10</span>
+<h2>Natural Loofah Soap Saver</h2>
+<p class="modal-intro">A natural loofah pad designed to hold or rest a bar of soap.</p>
+<h3>About this product</h3>
+<p>Place a bar of soap on the pad and rinse the pad regularly. Let it dry between uses.</p>
+<h3>Environmental benefit</h3>
+<p>A plant-based alternative to some synthetic soap mats.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Beeswax Food Wrap details" class="product-modal" id="product-11">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Beeswax Food Wrap" src="image/11.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 11</span>
+<h2>Beeswax Food Wrap</h2>
+<p class="modal-intro">A reusable food wrap with a natural beeswax-style finish.</p>
+<h3>About this product</h3>
+<p>Use it to cover bowls or wrap suitable foods. Clean according to care guidance and keep away from high heat.</p>
+<h3>Environmental benefit</h3>
+<p>Can be reused in place of some single-use food wraps.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Wooden Soap Dish details" class="product-modal" id="product-12">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Wooden Soap Dish" src="image/12.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 12</span>
+<h2>Wooden Soap Dish</h2>
+<p class="modal-intro">A simple wooden tray with drainage spaces for bar soap.</p>
+<h3>About this product</h3>
+<p>Place beside the sink or shower so excess water can drain away. Keep it clean and allow it to dry.</p>
+<h3>Environmental benefit</h3>
+<p>Encourages the use of bar soap with a reusable holder.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Soy Candle details" class="product-modal" id="product-13">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Soy Candle" src="image/13.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 13</span>
+<h2>Natural Soy Candle</h2>
+<p class="modal-intro">A candle presented in a reusable-style glass container.</p>
+<h3>About this product</h3>
+<p>Use on a stable, heat-resistant surface and never leave a burning candle unattended. Trim the wick as directed.</p>
+<h3>Environmental benefit</h3>
+<p>Soy-based candle wax is a plant-derived alternative to some conventional waxes.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Plant in Recycled Pot details" class="product-modal" id="product-14">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Plant in Recycled Pot" src="image/14.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 14</span>
+<h2>Plant in Recycled Pot</h2>
+<p class="modal-intro">A small green plant displayed in a textured recycled-look planter.</p>
+<h3>About this product</h3>
+<p>Place where the plant receives suitable light and water according to its needs.</p>
+<h3>Environmental benefit</h3>
+<p>Adds greenery to indoor spaces and showcases a planter made with recycled-style material.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Cotton Makeup Pads details" class="product-modal" id="product-15">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Cotton Makeup Pads" src="image/15.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 15</span>
+<h2>Reusable Cotton Makeup Pads</h2>
+<p class="modal-intro">Washable round cotton pads stored in a small drawstring pouch.</p>
+<h3>About this product</h3>
+<p>Use with makeup remover or skincare, then wash and dry before using again.</p>
+<h3>Environmental benefit</h3>
+<p>Can replace disposable cotton rounds when regularly reused.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Wooden Wide-Tooth Comb details" class="product-modal" id="product-16">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Wooden Wide-Tooth Comb" src="image/16.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 16</span>
+<h2>Wooden Wide-Tooth Comb</h2>
+<p class="modal-intro">A wooden comb with widely spaced teeth.</p>
+<h3>About this product</h3>
+<p>Use to gently detangle hair, especially when working through knots. Keep clean and dry after use.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable grooming tool made with a natural material.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Produce Bag details" class="product-modal" id="product-17">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Produce Bag" src="image/17.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 17</span>
+<h2>Reusable Produce Bag</h2>
+<p class="modal-intro">A lightweight mesh-style bag for carrying fruits and vegetables.</p>
+<h3>About this product</h3>
+<p>Use when shopping for produce and wash when needed. Allow it to dry fully before storing.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce the need for thin disposable produce bags.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Wooden Tissue Box Cover details" class="product-modal" id="product-18">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Wooden Tissue Box Cover" src="image/18.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 18</span>
+<h2>Wooden Tissue Box Cover</h2>
+<p class="modal-intro">A wooden cover designed to hold a tissue box.</p>
+<h3>About this product</h3>
+<p>Place over a compatible tissue box for a neat tabletop display. Refill with tissues as needed.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable holder that can be kept and used with replacement tissue boxes.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Seed Paper Cards details" class="product-modal" id="product-19">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Seed Paper Cards" src="image/19.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 19</span>
+<h2>Seed Paper Cards</h2>
+<p class="modal-intro">Plantable-style paper cards decorated with a small leaf design.</p>
+<h3>About this product</h3>
+<p>Write a short note or message. Follow the paper supplier's planting instructions if the paper is seed-embedded.</p>
+<h3>Environmental benefit</h3>
+<p>Encourages creative reuse and may give suitable seed paper a second purpose.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Stainless Steel Bottle details" class="product-modal" id="product-20">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Stainless Steel Bottle" src="image/20.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 20</span>
+<h2>Reusable Stainless Steel Bottle</h2>
+<p class="modal-intro">A clear-finish reusable stainless-steel drink bottle.</p>
+<h3>About this product</h3>
+<p>Carry water throughout the day. Clean the inside and lid regularly and follow the manufacturer's care instructions.</p>
+<h3>Environmental benefit</h3>
+<p>Helps replace single-use drink containers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Bath Brush details" class="product-modal" id="product-21">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Bath Brush" src="image/21.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 21</span>
+<h2>Natural Bath Brush</h2>
+<p class="modal-intro">A wooden-handled bath brush with natural-looking bristles.</p>
+<h3>About this product</h3>
+<p>Use gently for bathing or dry brushing only if suitable for your skin. Rinse and dry thoroughly after use.</p>
+<h3>Environmental benefit</h3>
+<p>A durable personal-care tool that can be used repeatedly.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Stainless Steel Lunch Box details" class="product-modal" id="product-22">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Stainless Steel Lunch Box" src="image/22.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 22</span>
+<h2>Stainless Steel Lunch Box</h2>
+<p class="modal-intro">A reusable metal lunch container with compartments.</p>
+<h3>About this product</h3>
+<p>Pack meals and snacks for school, work, or trips. Check the lid and cleaning instructions before use.</p>
+<h3>Environmental benefit</h3>
+<p>Can replace disposable meal containers and food packaging.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Seedling Paper Gift Bag details" class="product-modal" id="product-23">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Seedling Paper Gift Bag" src="image/23.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 23</span>
+<h2>Seedling Paper Gift Bag</h2>
+<p class="modal-intro">A kraft-style paper bag decorated with a botanical motif.</p>
+<h3>About this product</h3>
+<p>Use for small gifts, party favors, or lightweight items. Reuse when possible and recycle where accepted.</p>
+<h3>Environmental benefit</h3>
+<p>Paper packaging can be reused and recycled through suitable local programs.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Cloth Napkins details" class="product-modal" id="product-24">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Cloth Napkins" src="image/24.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 24</span>
+<h2>Reusable Cloth Napkins</h2>
+<p class="modal-intro">A set of washable fabric napkins with a leaf pattern.</p>
+<h3>About this product</h3>
+<p>Use at meals, then wash and dry before using again.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce the use of disposable paper napkins.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Refillable Natural Balm Jar details" class="product-modal" id="product-25">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Refillable Natural Balm Jar" src="image/25.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 25</span>
+<h2>Refillable Natural Balm Jar</h2>
+<p class="modal-intro">A small reusable jar for balm or other personal-care products.</p>
+<h3>About this product</h3>
+<p>Use for compatible products and clean thoroughly before refilling. Keep contents properly labeled.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable container that can help reduce packaging waste.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Solar Garden Light details" class="product-modal" id="product-26">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Solar Garden Light" src="image/26.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 26</span>
+<h2>Solar Garden Light</h2>
+<p class="modal-intro">A garden stake light with a solar panel and lantern-style top.</p>
+<h3>About this product</h3>
+<p>Place in a sunny outdoor location so the panel can charge during the day. Follow the product's setup and care instructions.</p>
+<h3>Environmental benefit</h3>
+<p>Uses sunlight as an energy source for outdoor lighting.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Wooden Clothes Hangers details" class="product-modal" id="product-27">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Wooden Clothes Hangers" src="image/27.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 27</span>
+<h2>Wooden Clothes Hangers</h2>
+<p class="modal-intro">A set of sturdy wooden hangers for organizing clothing.</p>
+<h3>About this product</h3>
+<p>Hang shirts, dresses, jackets, and other garments. Store in a dry closet.</p>
+<h3>Environmental benefit</h3>
+<p>Reusable hangers can last for years and reduce the need for disposable alternatives.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Metal Coffee Filter details" class="product-modal" id="product-28">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Metal Coffee Filter" src="image/28.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 28</span>
+<h2>Reusable Metal Coffee Filter</h2>
+<p class="modal-intro">A stainless-steel pour-over coffee filter.</p>
+<h3>About this product</h3>
+<p>Place over a suitable cup or carafe, add coffee grounds, and pour hot water slowly. Rinse after use.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce the need for disposable paper coffee filters.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Woven Storage Basket details" class="product-modal" id="product-29">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Woven Storage Basket" src="image/29.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 29</span>
+<h2>Woven Storage Basket</h2>
+<p class="modal-intro">A natural-fiber woven basket with handles.</p>
+<h3>About this product</h3>
+<p>Use to organize household items, towels, toys, or accessories. Keep away from prolonged moisture.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable storage option made with woven natural-looking fibers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Food Containers details" class="product-modal" id="product-30">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Food Containers" src="image/30.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 30</span>
+<h2>Reusable Food Containers</h2>
+<p class="modal-intro">A set of clear reusable containers with lids.</p>
+<h3>About this product</h3>
+<p>Store prepared meals, snacks, and leftovers. Clean and dry before stacking or storing.</p>
+<h3>Environmental benefit</h3>
+<p>Can replace some disposable takeaway and food-storage containers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Wooden Dish Brush details" class="product-modal" id="product-31">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Wooden Dish Brush" src="image/31.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 31</span>
+<h2>Wooden Dish Brush</h2>
+<p class="modal-intro">A wooden cleaning brush with natural-style bristles.</p>
+<h3>About this product</h3>
+<p>Use for washing dishes and cookware. Rinse after use and let it dry in an airy place.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable alternative to some plastic dish brushes.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Gift Wrap details" class="product-modal" id="product-32">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Gift Wrap" src="image/32.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 32</span>
+<h2>Reusable Gift Wrap</h2>
+<p class="modal-intro">A reusable fabric-style gift wrap tied with a natural ribbon.</p>
+<h3>About this product</h3>
+<p>Wrap gifts and keep the fabric for another occasion. Store folded after use.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce single-use wrapping paper when reused.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Bamboo Wall Clock details" class="product-modal" id="product-33">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Wall Clock" src="image/33.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 33</span>
+<h2>Bamboo Wall Clock</h2>
+<p class="modal-intro">A minimalist round clock with a bamboo-look face.</p>
+<h3>About this product</h3>
+<p>Use as a decorative and functional wall clock. Install with suitable hardware and replace its battery when needed.</p>
+<h3>Environmental benefit</h3>
+<p>Features a natural-looking material in a long-use household item.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Pencil Case details" class="product-modal" id="product-34">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Pencil Case" src="image/34.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 34</span>
+<h2>Reusable Pencil Case</h2>
+<p class="modal-intro">A fabric pencil pouch with a simple zip closure.</p>
+<h3>About this product</h3>
+<p>Store pens, pencils, chargers, or small everyday items. Clean gently when needed.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable organizer that can be used for school or work.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Fiber Hand Fan details" class="product-modal" id="product-35">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Fiber Hand Fan" src="image/35.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 35</span>
+<h2>Natural Fiber Hand Fan</h2>
+<p class="modal-intro">A woven hand fan with a natural-fiber finish.</p>
+<h3>About this product</h3>
+<p>Use for personal cooling outdoors or indoors. Keep dry and store carefully to protect its shape.</p>
+<h3>Environmental benefit</h3>
+<p>A simple reusable accessory that does not require electricity.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Loofah Bath Sponge details" class="product-modal" id="product-36">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Loofah Bath Sponge" src="image/36.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 36</span>
+<h2>Natural Loofah Bath Sponge</h2>
+<p class="modal-intro">A natural loofah sponge for bathing and gentle exfoliation.</p>
+<h3>About this product</h3>
+<p>Wet before use, apply soap, and rinse thoroughly afterward. Let it dry fully between uses.</p>
+<h3>Environmental benefit</h3>
+<p>A plant-based bath accessory that can replace some synthetic sponges.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Refillable Amber Soap Dispenser details" class="product-modal" id="product-37">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Refillable Amber Soap Dispenser" src="image/37.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 37</span>
+<h2>Refillable Amber Soap Dispenser</h2>
+<p class="modal-intro">An amber-colored pump bottle for liquid soap or other suitable liquids.</p>
+<h3>About this product</h3>
+<p>Fill with compatible liquid soap, pump as needed, and wash the bottle before changing products.</p>
+<h3>Environmental benefit</h3>
+<p>Supports refill routines and reduces repeated purchases of small single-use bottles.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Recycled Paper Gift Tags details" class="product-modal" id="product-38">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Recycled Paper Gift Tags" src="image/38.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 38</span>
+<h2>Recycled Paper Gift Tags</h2>
+<p class="modal-intro">Decorative tags made from recycled-style paper with a natural twine tie.</p>
+<h3>About this product</h3>
+<p>Attach to gifts, packages, or handmade products. Reuse or recycle where accepted.</p>
+<h3>Environmental benefit</h3>
+<p>Makes use of paper materials in small gift-labeling details.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Glass Propagation Station details" class="product-modal" id="product-39">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Glass Propagation Station" src="image/39.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 39</span>
+<h2>Glass Propagation Station</h2>
+<p class="modal-intro">A wooden stand holding small glass tubes for plant cuttings.</p>
+<h3>About this product</h3>
+<p>Place plant cuttings in the glass tubes with water and refresh the water regularly.</p>
+<h3>Environmental benefit</h3>
+<p>Encourages plant propagation and reuse of glass containers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Bamboo Coffee Cup details" class="product-modal" id="product-40">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Bamboo Coffee Cup" src="image/40.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 40</span>
+<h2>Reusable Bamboo Coffee Cup</h2>
+<p class="modal-intro">A reusable takeaway-style cup with a green lid.</p>
+<h3>About this product</h3>
+<p>Use for suitable hot or cold drinks and wash after use. Check temperature and care guidance before filling.</p>
+<h3>Environmental benefit</h3>
+<p>Can replace disposable takeaway cups when carried and reused.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Fiber Bath Mitt details" class="product-modal" id="product-41">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Fiber Bath Mitt" src="image/41.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 41</span>
+<h2>Natural Fiber Bath Mitt</h2>
+<p class="modal-intro">A textured natural-fiber bath mitt for washing and exfoliating.</p>
+<h3>About this product</h3>
+<p>Use gently with water and cleanser. Rinse and hang to dry after each use.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable personal-care accessory made with natural-looking fibers.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Yoga Mat details" class="product-modal" id="product-42">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Yoga Mat" src="image/42.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 42</span>
+<h2>Reusable Yoga Mat</h2>
+<p class="modal-intro">A green exercise mat designed for yoga, stretching, and floor workouts.</p>
+<h3>About this product</h3>
+<p>Lay on a flat surface for exercise and clean according to the material's care instructions.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable fitness accessory for regular movement and wellness routines.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Bamboo Kitchen Utensil Set details" class="product-modal" id="product-43">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Kitchen Utensil Set" src="image/43.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 43</span>
+<h2>Bamboo Kitchen Utensil Set</h2>
+<p class="modal-intro">A set of bamboo cooking spoons and spatulas.</p>
+<h3>About this product</h3>
+<p>Use for stirring and serving food. Hand-wash and dry thoroughly; avoid prolonged soaking.</p>
+<h3>Environmental benefit</h3>
+<p>Reusable kitchen tools made from a natural material.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Reusable Cotton Rounds details" class="product-modal" id="product-44">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Reusable Cotton Rounds" src="image/44.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 44</span>
+<h2>Reusable Cotton Rounds</h2>
+<p class="modal-intro">Washable cotton rounds stored in a drawstring pouch.</p>
+<h3>About this product</h3>
+<p>Use for skincare or cleansing, then wash and dry before reuse.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce the number of disposable cotton pads used.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Plant in Upcycled Tire Planter details" class="product-modal" id="product-45">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Plant in Upcycled Tire Planter" src="image/45.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 45</span>
+<h2>Plant in Upcycled Tire Planter</h2>
+<p class="modal-intro">A leafy plant growing in a repurposed tire-style planter.</p>
+<h3>About this product</h3>
+<p>Use as an outdoor decorative planter with suitable drainage and plant care.</p>
+<h3>Environmental benefit</h3>
+<p>Demonstrates creative reuse of an item that might otherwise be discarded.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Bamboo Soap Dish details" class="product-modal" id="product-46">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Bamboo Soap Dish" src="image/46.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 46</span>
+<h2>Bamboo Soap Dish</h2>
+<p class="modal-intro">A bamboo-style slatted tray for bar soap.</p>
+<h3>About this product</h3>
+<p>Set the soap on the tray and allow water to drain. Clean and dry the dish regularly.</p>
+<h3>Environmental benefit</h3>
+<p>A reusable holder that supports bar-soap routines.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Stainless Steel Vacuum Bottle details" class="product-modal" id="product-47">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Stainless Steel Vacuum Bottle" src="image/47.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 47</span>
+<h2>Stainless Steel Vacuum Bottle</h2>
+<p class="modal-intro">A reusable insulated-style stainless-steel bottle.</p>
+<h3>About this product</h3>
+<p>Carry beverages and clean according to the manufacturer's instructions. Check whether the bottle is intended for hot and cold drinks.</p>
+<h3>Environmental benefit</h3>
+<p>Can reduce reliance on disposable beverage bottles.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Natural Jute Twine details" class="product-modal" id="product-48">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Natural Jute Twine" src="image/48.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 48</span>
+<h2>Natural Jute Twine</h2>
+<p class="modal-intro">A spool of natural-fiber twine for home, garden, and craft use.</p>
+<h3>About this product</h3>
+<p>Use for tying packages, supporting suitable plants, or craft projects. Store in a dry place.</p>
+<h3>Environmental benefit</h3>
+<p>A versatile natural-fiber option for many household tasks.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Compost Bin details" class="product-modal" id="product-49">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Compost Bin" src="image/49.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 49</span>
+<h2>Compost Bin</h2>
+<p class="modal-intro">A lidded container with a leaf symbol for collecting compostable scraps.</p>
+<h3>About this product</h3>
+<p>Collect suitable fruit and vegetable scraps and transfer them to a proper composting system. Follow local composting guidance.</p>
+<h3>Environmental benefit</h3>
+<p>Supports the collection of organic waste for composting where facilities are available.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section><section aria-label="Recycled Cardboard Storage Box details" class="product-modal" id="product-50">
+<a aria-label="Close details" class="modal-backdrop" href="#products"></a>
+<div class="modal-card">
+<a aria-label="Close" class="modal-close" href="#products">×</a>
+<div class="modal-image"><img alt="Recycled Cardboard Storage Box" src="image/50.png"/></div>
+<div class="modal-copy">
+<span class="eyebrow">HAREL ECO COLLECTION · 50</span>
+<h2>Recycled Cardboard Storage Box</h2>
+<p class="modal-intro">A kraft-style storage box with a recycling symbol.</p>
+<h3>About this product</h3>
+<p>Use to organize papers, accessories, or lightweight household items. Reuse and recycle when no longer needed.</p>
+<h3>Environmental benefit</h3>
+<p>Provides a storage option made from cardboard material.</p>
+<a class="button button-green" href="#products">Back to all products</a>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+  <a class="footer-brand" href="about-us.html">HAREL <span>ECO FRIENDLY PRODUCT</span></a>
+  <p>Small choices. Greener tomorrow.</p>
+  <a href="#top" class="back-top">BACK TO TOP ↑</a>
+  <small>© 2026 HAREL ECO FRIENDLY PRODUCT. Informational product showcase.</small>
+  <small class="creator-credit">CREATED BY GIAN SANCHEZ UMALI</small>
+</footer>
+</body></html>

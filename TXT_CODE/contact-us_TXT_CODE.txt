@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="HAREL ECO FRIENDLY PRODUCT — thoughtful products and ideas for greener everyday living.">
+<title>Contact Us | HAREL ECO FRIENDLY PRODUCT</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header class="site-header">
+  <a class="brand" href="about-us.html"><span class="brand-mark">H</span><span>HAREL<small>ECO FRIENDLY PRODUCT</small></span></a>
+  <nav class="main-nav">
+    <a href="home.html">Home</a>
+    <a href="about-us.html">About Us</a>
+    <a href="products.html">Products</a>
+    <a href="contact-us.html" class="active">Contact Us</a>
+  </nav>
+  <a class="header-cta" href="products.html">Explore collection <span>↗</span></a>
+</header>
+<main>
+<section class="page-hero contact-hero" id="top"><div class="hero-shade"></div><div class="page-hero-content"><span class="eyebrow hero-eyebrow">GET IN TOUCH</span><h1>Let's stay<br><em>connected.</em></h1><p>Follow our social pages and connect with HAREL ECO FRIENDLY PRODUCT.</p></div></section>
+<section class="contact-area section-wrap">
+  <div class="contact-heading"><span class="eyebrow">CONNECT WITH US</span><h2>Find us on<br><em>social media.</em></h2><p>Choose a platform below to visit our page. All four social links are displayed together for easy access.</p></div>
+  <div class="social-grid">
+    <a class="social-card" href="https://www.facebook.com/gianuuuuu" target="_blank" rel="noopener"><span class="social-icon"><img src="image/facebook.png" alt="Facebook logo"></span><strong>Facebook</strong><small>Visit our Facebook page ↗</small></a>
+    <a class="social-card" href="https://www.instagram.com/uknown_gian" target="_blank" rel="noopener"><span class="social-icon"><img src="image/instagram.png" alt="Instagram logo"></span><strong>Instagram</strong><small>Follow on Instagram ↗</small></a>
+    <a class="social-card" href="https://www.messenger.com/j/7U648GltOZg7Ld8w/?send_source=gc%3Acopy_invite_link" target="_blank" rel="noopener"><span class="social-icon"><img src="image/messenger.png" alt="Messenger logo"></span><strong>Messenger</strong><small>Message us here ↗</small></a>
+    <a class="social-card" href="https://www.youtube.com/@GianUmali-e9p" target="_blank" rel="noopener"><span class="social-icon"><img src="image/youtube.png" alt="YouTube logo"></span><strong>YouTube</strong><small>Watch our channel ↗</small></a>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <a class="footer-brand" href="about-us.html">HAREL <span>ECO FRIENDLY PRODUCT</span></a>
+  <p>Small choices. Greener tomorrow.</p>
+  <a href="#top" class="back-top">BACK TO TOP ↑</a>
+  <small>© 2026 HAREL ECO FRIENDLY PRODUCT. Informational product showcase.</small>
+  <small class="creator-credit">CREATED BY GIAN SANCHEZ UMALI</small>
+</footer>
+</body></html>
